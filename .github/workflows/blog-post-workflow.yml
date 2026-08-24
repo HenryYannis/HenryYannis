@@ -1,0 +1,23 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # 每天自动从 RSS 源抓取最新文章并更新 README
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in xbkjz.cn posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://xbkjz.cn/rss.xml"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
