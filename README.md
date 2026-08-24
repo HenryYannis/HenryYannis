@@ -2,7 +2,7 @@
 
 <h3>💻 <a href="https://xbkjz.cn" target="_blank">小宝科技站</a></h3>
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake.svg?v=2" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake.svg" />
 
 </div>
 
