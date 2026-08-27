@@ -9,8 +9,8 @@
 ### 📰 小宝科技站 · 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-- [全平台代理客户端选型与避坑指南：Windows、Mac、iOS、Android 与软路由主流工具盘点](https://xbkjz.cn/posts/2026/08-25-proxy-clients-guide/)
-- [告别广告与流氓弹窗：豆包、微信、千问新一代 AI 输入法深度横评](https://xbkjz.cn/posts/2026/08-24-ai-input-methods-review/)
-- [天下苦 OfficePlus 久矣：写了个开源工具彻底拔除这个流氓插件](https://xbkjz.cn/posts/2026/08-17-remove-officeplus-cleanup-guide/)
-- [当 AI 报告里混入黑产小广告：一次大模型 API「投毒」事件排查实录](https://xbkjz.cn/posts/2026/08-09-llm-ad-injection/)
-- [国内主流 AI 桌面客户端大盘点：哪款才是最强打工搭子？](https://xbkjz.cn/posts/2026/08-05-domestic-ai-pc-clients/)<!-- BLOG-POST-LIST:END -->
+- [【Agent 指南】换台电脑技能就全废了？为什么你的 AI Agent Skill 必须随项目代码走？](https://xbkjz.cn/posts/2026/08-27-agent-skills-project-level-management/)
+- [【Agent 指南】告别裸奔 AI！手把手教你从 0 到 1 安装 Agent 技能包（以倪海厦经方知识库为例）](https://xbkjz.cn/posts/2026/08-27-agent-skills-install-guide/)
+- [【动画演示】一键去马赛克为什么是骗局？手机画笔涂鸦才真危险：揭秘去码套路与防泄露指南](https://xbkjz.cn/posts/2026/08-26-image-mosaic-recovery-myth/)
+- [豆包 PC 和豆包工作 PC 有什么区别？定位、模式、账号与适用人群全方位对比](https://xbkjz.cn/posts/2026/08-26-doubao-pc-vs-doubao-work-pc/)
+- [全平台代理客户端选型与避坑指南：Windows、Mac、iOS、Android 与软路由主流工具盘点](https://xbkjz.cn/posts/2026/08-25-proxy-clients-guide/)<!-- BLOG-POST-LIST:END -->
