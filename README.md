@@ -4,7 +4,11 @@
 
 <p>我做 AI 培训和企业智能体落地，也教青少年和普通人学 AI、学编程。<br>这里放我的开源小工具和课程，文章都发在小宝科技站。</p>
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake.svg" />
+</picture>
 
 </div>
 
