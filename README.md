@@ -2,9 +2,21 @@
 
 <h3>💻 <a href="https://xbkjz.cn" target="_blank">小宝科技站</a></h3>
 
+<p>我做 AI 培训和企业智能体落地，也教青少年和普通人学 AI、学编程。<br>这里放我的开源小工具和课程，文章都发在小宝科技站。</p>
+
 <img alt="github-snake" src="https://raw.githubusercontent.com/HenryYannis/HenryYannis/output/github-snake.svg" />
 
 </div>
+
+### 🧰 开源项目
+
+| 项目 | 简介 |
+| :--- | :--- |
+| [xiaobao-pygame](https://github.com/HenryYannis/xiaobao-pygame) | 面向初学者和少儿编程老师的 Pygame 游戏课程，18 个游戏、70 节渐进课 |
+| [xiaobao-tools](https://github.com/HenryYannis/xiaobao-tools) | 开箱即用的 Python 脚本与 Windows 配置工具：机房管理、局域网共享与 AI 对话、办公小工具 |
+| [Remove-OfficePlus](https://github.com/HenryYannis/Remove-OfficePlus) | 一键彻底清除 OfficePLUS 及同类流氓 Office 加载项 |
+| [lighthouse-performance-skills](https://github.com/HenryYannis/lighthouse-performance-skills) | 给 AI 编程助手用的网页性能 Skill，自动审计并优化 Lighthouse 跑分 |
+| [lunar-vegetarian-calendar](https://github.com/HenryYannis/lunar-vegetarian-calendar) | 农历初一、十五吃素订阅日历，支持 Apple / Google / Outlook，自动更新 |
 
 ### 📰 小宝科技站 · 最新文章
 
