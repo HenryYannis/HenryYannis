@@ -15,9 +15,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      # 主页只展示技术文章：先过滤掉"生活感悟""其他"分类，再在本机起一个临时服务给下一步读取
+      - name: Build tech-only feed
+        run: |
+          mkdir -p "$RUNNER_TEMP/feed"
+          python3 .github/scripts/filter_feed.py "https://xbkjz.cn/rss.xml" "$RUNNER_TEMP/feed/tech.xml"
+          nohup python3 -m http.server 8765 --bind 127.0.0.1 --directory "$RUNNER_TEMP/feed" > /dev/null 2>&1 &
+          sleep 2
+          curl -fsS http://127.0.0.1:8765/tech.xml > /dev/null
       - name: Pull in xbkjz.cn posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://xbkjz.cn/rss.xml"
+          feed_list: "http://127.0.0.1:8765/tech.xml"
           max_post_count: 5
           template: "$newline- [$title]($url)"
