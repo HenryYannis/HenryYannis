@@ -12,7 +12,7 @@
 
 | 项目 | 简介 |
 | :--- | :--- |
-| [xiaobao-pygame](https://github.com/HenryYannis/xiaobao-pygame) | 面向初学者和少儿编程老师的 Pygame 游戏课程，18 个游戏、70 节渐进课 |
+| [xiaobao-pygame](https://github.com/HenryYannis/xiaobao-pygame) | 面向初学者和少儿编程老师的 Pygame 游戏课程，18 个游戏、69 节渐进课 |
 | [xiaobao-tools](https://github.com/HenryYannis/xiaobao-tools) | 开箱即用的 Python 脚本与 Windows 配置工具：机房管理、局域网共享与 AI 对话、办公小工具 |
 | [Remove-OfficePlus](https://github.com/HenryYannis/Remove-OfficePlus) | 一键彻底清除 OfficePLUS 及同类流氓 Office 加载项 |
 | [lighthouse-performance-skills](https://github.com/HenryYannis/lighthouse-performance-skills) | 给 AI 编程助手用的网页性能 Skill，自动审计并优化 Lighthouse 跑分 |
