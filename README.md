@@ -16,9 +16,10 @@
 
 | 项目 | 简介 |
 | :--- | :--- |
-| [xiaobao-pygame](https://github.com/HenryYannis/xiaobao-pygame) | 面向初学者和少儿编程老师的 Pygame 游戏课程，18 个游戏、69 节渐进课 |
+| [FlarePanel](https://github.com/HenryYannis/FlarePanel) | Cloudflare Pages 多站点管理后台：评论、浏览量、会员、R2 文件、可选 AI 网关，配套开源评论 Worker |
+| [xiaobao-pygame](https://github.com/HenryYannis/xiaobao-pygame) | 面向初学者和少儿编程老师的 Pygame 游戏课程，18 个游戏、70 节渐进课 |
 | [xiaobao-tools](https://github.com/HenryYannis/xiaobao-tools) | 开箱即用的 Python 脚本与 Windows 配置工具：机房管理、局域网共享与 AI 对话、办公小工具 |
-| [Remove-OfficePlus](https://github.com/HenryYannis/Remove-OfficePlus) | 一键彻底清除 OfficePLUS 及同类流氓 Office 加载项 |
+| [Remove-OfficePlus](https://github.com/HenryYannis/Remove-OfficePlus) | 一键清理 OfficePLUS 及同类 Office 加载项、后台服务和残留文件，删除前自动备份 |
 | [lighthouse-performance-skills](https://github.com/HenryYannis/lighthouse-performance-skills) | 给 AI 编程助手用的网页性能 Skill，自动审计并优化 Lighthouse 跑分 |
 | [lunar-vegetarian-calendar](https://github.com/HenryYannis/lunar-vegetarian-calendar) | 农历初一、十五吃素订阅日历，支持 Apple / Google / Outlook，自动更新 |
 
