@@ -16,8 +16,10 @@
 
 | 项目 | 简介 |
 | :--- | :--- |
-| [FlarePanel](https://github.com/HenryYannis/FlarePanel) | Cloudflare Pages 多站点管理后台：评论、浏览量、会员、R2 文件、可选 AI 网关，配套开源评论 Worker |
 | [Remove-OfficePlus](https://github.com/HenryYannis/Remove-OfficePlus) | 一键清理 OfficePLUS 及同类 Office 加载项、后台服务和残留文件，删除前自动备份 |
+| [FlarePanel](https://github.com/HenryYannis/FlarePanel) | Cloudflare Pages 多站点管理后台：评论、浏览量、会员、R2 文件、可选 AI 网关，配套开源评论 Worker |
+| [FlareRouter](https://github.com/HenryYannis/FlareRouter) | 部署在单个 Cloudflare Worker 上的个人 AI 网关：OpenAI / Anthropic 双接口，多家服务商一个地址，失败自动切换 |
+| [opencode-telegram-remote](https://github.com/HenryYannis/opencode-telegram-remote) | OpenCode V2 插件：用手机 Telegram 遥控电脑上的 OpenCode，桌面回复实时推送，可切换模型和会话 |
 | [xiaobao-tools](https://github.com/HenryYannis/xiaobao-tools) | 开箱即用的 Python 脚本与 Windows 配置工具：机房管理、局域网共享与 AI 对话、办公小工具 |
 | [lunar-vegetarian-calendar](https://github.com/HenryYannis/lunar-vegetarian-calendar) | 农历初一、十五吃素订阅日历，支持 Apple / Google / Outlook，自动更新 |
 | [lighthouse-performance-skills](https://github.com/HenryYannis/lighthouse-performance-skills) | 给 AI 编程助手用的网页性能 Skill，自动审计并优化 Lighthouse 跑分 |
