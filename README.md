@@ -28,8 +28,8 @@
 ### 📰 小宝科技站 · 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-- [【Cloudflare 建站】开源 FlareRouter：Claude Code 也能用的个人 AI 网关](https://xbkjz.cn/posts/2026/10-30-flarerouter-cloudflare-ai-gateway/)
-- [【Cloudflare 建站】开源 FlarePanel：一个后台管多个站的评论、浏览量和 R2 文件](https://xbkjz.cn/posts/2026/10-29-flarepanel-cloudflare-dashboard/)
-- [Mac 必备软件推荐 2026：用了四年、卸载三十款后，我给 AI 留下了这份清单](https://xbkjz.cn/posts/2026/10-20-mac-essential-apps-2026/)
-- [【Cloudflare 建站】新手后台配置避坑全指南：从 SSL 到安全加速逐项拆解](https://xbkjz.cn/posts/2026/10-12-cloudflare-settings-guide/)
-- [国内主流 AI 桌面客户端 2API 反向代理大盘点：原理、开源项目与风险提示](https://xbkjz.cn/posts/2026/10-10-ai-client-2api-guide/)<!-- BLOG-POST-LIST:END -->
+- [一人公司如何做决策？用多角色 AI 智囊团打造同屏头脑风暴](https://xbkjz.cn/posts/2026/11-15-ai-group-chat-opc-advisors/)
+- [生图不想用 Discord 敲代码？极简纯前端 AI 生图画廊与多比例构图实战](https://xbkjz.cn/posts/2026/11-15-ai-image-generator-workbench/)
+- [研报动辄几十页？用 3-Pass 穿透提示词打造深度投研分析助手](https://xbkjz.cn/posts/2026/11-15-ai-stock-report-workbench/)
+- [自建 AI 反代总是报错？纯前端大模型接口调试与思维链解析实战](https://xbkjz.cn/posts/2026/11-15-ai-api-tester-workbench/)
+- [大模型到底谁更强？打造同屏双轨 AI 对决竞技场：首字延迟与推理质量量化评测](https://xbkjz.cn/posts/2026/11-15-ai-arena-compare-workbench/)<!-- BLOG-POST-LIST:END -->
