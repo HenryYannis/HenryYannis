@@ -28,8 +28,8 @@
 ### 📰 小宝科技站 · 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-- [用 AI 长期开发项目为什么越写越乱？我维护三个网站的 6 条规矩](https://xbkjz.cn/posts/2026/11-21-ai-long-term-project-rules/)
+- [【Vibe Coding】长期开发为什么越写越乱？维护 3 个网站的 6 条规矩](https://xbkjz.cn/posts/2026/11-21-ai-long-term-project-rules/)
 - [【Agent 指南】Magpie AI 网关深度教学：反向代理、插件扩展、路由组分配与跨端调用](https://xbkjz.cn/posts/2026/11-21-magpie-tutorial/)
 - [一口气注销了 7 个大模型 API 账号，才看清按量付费的坑](https://xbkjz.cn/posts/2026/11-21-llm-api-account-cleanup/)
-- [Vibe Coding 的软件界面怎么摆脱廉价感？5 个大厂偷偷死扣的细节](https://xbkjz.cn/posts/2026/11-20-ai-product-ui-quality-details/)
+- [【Vibe Coding】软件界面怎么摆脱廉价感？10 个大厂死扣的细节](https://xbkjz.cn/posts/2026/11-20-ai-product-ui-quality-details/)
 - [一人公司如何做决策？用多角色 AI 智囊团打造同屏头脑风暴](https://xbkjz.cn/posts/2026/11-15-ai-group-chat-opc-advisors/)<!-- BLOG-POST-LIST:END -->
